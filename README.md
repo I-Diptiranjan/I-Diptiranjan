@@ -1,3 +1,5 @@
+![logo](https://github.com/I-Diptiranjan/I-Diptiranjan/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Diptiranjan Sahoo</h1>
 <h3 align="center">A Web Development Enthusiast from India</h3>
 
