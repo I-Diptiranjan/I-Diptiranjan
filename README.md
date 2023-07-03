@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diptiranjan-sahoo-811817234/](https://www.linkedin.com/in/diptiranjan-sahoo-811817234/)
 
-- 💬 Ask me about **HTML5 , CSS , Java**
+- 💬 Ask me about **HTML5 , CSS , Java , AWS , AJP**
 
 - 📫 How to reach me **iamdiptiranjan2004@gmail.com**
 
